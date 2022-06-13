@@ -9,3 +9,4 @@ function addingEventListener() {
         alert('I have been clicked');
     });
 }
+
